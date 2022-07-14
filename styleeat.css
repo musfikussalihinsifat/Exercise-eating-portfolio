@@ -38,6 +38,34 @@ border-radius: 30px ;
  background-image: url(images/shapes/7.png);
  background-repeat: no-repeat;
 }
-.center-Aline{
+.Center-Aline{
     text-align: center;
+}
+.Eating-item{
+        width: 80%;
+        height: 50%;
+        margin: 3% 3%;
+        padding: 10px;
+        border-radius: 10px;
+        box-shadow: 10px 10px 40px gray;
+    }
+.rd-width{
+width:30%;
+margin: 7% 7%;
+}
+.sub{
+      width: 100%;
+        height: 20%;
+        margin: 3% 3%;
+        padding: 5px;
+        border-radius: 10px;
+        box-shadow: 5px 5px 20px gray;
+}
+.Color{
+   width: 100%;
+   height: 150px;
+    background-color: black;
+}
+.o-color{
+    color: gray;
 }
